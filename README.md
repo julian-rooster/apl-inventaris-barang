@@ -70,8 +70,8 @@ python tests/test_inventory.py
 
 ## Anggota Kelompok
 
-- Julian – Setup project & testing
-- Oki – Inventory Service
-- Agna – Model Layer
-- Hifzhan – Utility & Validation
-- Rifan – CLI Interface
+- Renra Juliana – Setup project & testing
+- Muhammad Hiraki Aufa – Inventory Service
+- Agna Abdul Rauf – Model Layer
+- Hifzhan Abdilah – Utility & Validation
+- Rifan Fauzi Rohandi– CLI Interface
