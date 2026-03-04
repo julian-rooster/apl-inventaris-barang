@@ -1,5 +1,15 @@
 class Item:
-    def __init__(self, name, quantity, price):
+    """
+    Model representasi barang dalam inventaris
+    """
+
+    def __init__(self, name: str, quantity: int):
         self.name = name
         self.quantity = quantity
-        self.price = price
+
+    def display(self):
+        """
+        Mengembalikan string informasi barang
+        """
+        # ToDo: tampilkan format "Nama - Jumlah"
+        pass
