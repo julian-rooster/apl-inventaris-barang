@@ -12,4 +12,4 @@ class Item:
         Mengembalikan string informasi barang
         """
         # ToDo: tampilkan format "Nama - Jumlah"
-        pass
+        return f"{self.name} - {self.quantity}"
